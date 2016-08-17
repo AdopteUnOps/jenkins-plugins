@@ -1,1 +1,1 @@
-# jenkins-config
+# jenkins-plugins
